@@ -9,6 +9,11 @@
     },
     
     {
+      "name": "AbandonedRuins",
+      "enabled": true
+    },
+    
+    {
       "name": "Additional-Turret-updated",
       "enabled": true
     },
@@ -25,11 +30,6 @@
     
     {
       "name": "alien-biomes",
-      "enabled": true
-    },
-    
-    {
-      "name": "AlienBloodFixUpdated",
       "enabled": true
     },
     
@@ -146,6 +146,11 @@
     {
       "name": "Better_Strand_Casting",
       "enabled": true
+    },
+    
+    {
+      "name": "Big-Monsters",
+      "enabled": false
     },
     
     {
@@ -409,11 +414,6 @@
     },
     
     {
-      "name": "gas-furnace",
-      "enabled": true
-    },
-    
-    {
       "name": "Geothermal",
       "enabled": true
     },
@@ -439,7 +439,12 @@
     },
     
     {
-      "name": "InserterFuelLeech",
+      "name": "infused_aliens",
+      "enabled": true
+    },
+    
+    {
+      "name": "infused_aliens_functions",
       "enabled": true
     },
     
@@ -539,11 +544,6 @@
     },
     
     {
-      "name": "PoweredFloor",
-      "enabled": true
-    },
-    
-    {
       "name": "py-moduless",
       "enabled": true
     },
@@ -604,11 +604,6 @@
     },
     
     {
-      "name": "pyVegFix",
-      "enabled": true
-    },
-    
-    {
       "name": "quickstart-tech",
       "enabled": true
     },
@@ -629,16 +624,6 @@
     },
     
     {
-      "name": "Rich_Text_Helper",
-      "enabled": true
-    },
-    
-    {
-      "name": "robot_attrition",
-      "enabled": true
-    },
-    
-    {
       "name": "rso-mod",
       "enabled": true
     },
@@ -650,6 +635,11 @@
     
     {
       "name": "SantasNixieTubeDisplay",
+      "enabled": true
+    },
+    
+    {
+      "name": "scattergun_turret",
       "enabled": true
     },
     
@@ -694,6 +684,11 @@
     },
     
     {
+      "name": "Swarmageddon",
+      "enabled": true
+    },
+    
+    {
       "name": "Tiers32",
       "enabled": true
     },
@@ -710,6 +705,11 @@
     
     {
       "name": "VoidFuel",
+      "enabled": true
+    },
+    
+    {
+      "name": "Waterbomb",
       "enabled": true
     },
     
