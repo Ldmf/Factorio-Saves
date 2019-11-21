@@ -99,7 +99,7 @@
     },
     
     {
-      "name": "AngelsUsedCoolant",
+      "name": "artefact",
       "enabled": true
     },
     
@@ -146,11 +146,6 @@
     {
       "name": "Better_Strand_Casting",
       "enabled": true
-    },
-    
-    {
-      "name": "Big-Monsters",
-      "enabled": false
     },
     
     {
@@ -250,6 +245,11 @@
     
     {
       "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "cargo-ships",
       "enabled": true
     },
     
@@ -400,6 +400,11 @@
     
     {
       "name": "floating-damage-text",
+      "enabled": true
+    },
+    
+    {
+      "name": "FluidMustFlow",
       "enabled": true
     },
     
@@ -594,11 +599,6 @@
     },
     
     {
-      "name": "pyscienceorganizer",
-      "enabled": true
-    },
-    
-    {
       "name": "pyveganism",
       "enabled": true
     },
@@ -655,6 +655,11 @@
     
     {
       "name": "ShinyBob_Techs_Update",
+      "enabled": true
+    },
+    
+    {
+      "name": "sodiumhydroxidesolutionvoid",
       "enabled": true
     },
     
